@@ -1,0 +1,8 @@
+package fileupload;
+
+public class MyFileDAO {
+	// 새로운 게시물을 입력합니다.
+	public int insertFile(MyFileDTO dto) {
+		
+	}
+}

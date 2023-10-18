@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MustHaveJSP/src/main/webapp/DirectiveScript&apos; to &apos;01DirectiveScript&apos;" description="Rename resource &apos;DirectiveScript&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/DirectiveScript" name="01DirectiveScript" stamp="1694738284215" updateReferences="true"/>
+</session>

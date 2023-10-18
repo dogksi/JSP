@@ -1,0 +1,8 @@
+package fileupload;
+
+import jakarta.servlet.http.HttpServletRequest;
+
+public class FileUtil {
+	// 파일 업로드
+	public static String uploadFile(HttpServletRequest req, String sDirectory)
+}

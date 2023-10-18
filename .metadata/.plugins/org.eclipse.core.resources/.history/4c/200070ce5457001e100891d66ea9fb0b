@@ -1,0 +1,21 @@
+<%@page import="java.util.HashMap"%>
+<%@page import="java.util.Map"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%
+// 폼값(이메일 내용) 저장
+Map<String, String> emailInfo = new HashMap<String, String>();
+emailInfo.put("from", request.getParameter("from"));	// 보내는 사람
+emailInfo.put("to", request.getParameter("to"));	// 받는 사람
+emailInfo.put("subject", request.getParameter("subject"));	// 제목
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

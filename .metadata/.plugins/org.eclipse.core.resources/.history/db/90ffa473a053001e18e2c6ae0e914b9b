@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%
+// 예시에서 사용할 변수 선언
+int num1 = 3;
+pageContext.setAttribute("num2", 4);
+pageContext.setAttribute("num3", "5");
+pageContext.setAttribute("num4", "8");
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

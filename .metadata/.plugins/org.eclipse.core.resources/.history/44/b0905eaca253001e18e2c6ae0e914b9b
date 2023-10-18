@@ -1,0 +1,9 @@
+package el;
+
+public class MyELClass {
+	// 주민번호를 입력 받아 성별을 반환합니다.
+	public String getGender(String jumin) {
+		String returnStr = "";
+		int beginIdx = jumin.indexOf("-") + 1;
+	}
+}
